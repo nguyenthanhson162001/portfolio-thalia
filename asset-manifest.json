@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/portfolio-thalia/static/css/main.e6c13ad2.css",
-    "main.js": "/portfolio-thalia/static/js/main.d098ca40.js",
-    "static/js/453.ec1a5a71.chunk.js": "/portfolio-thalia/static/js/453.ec1a5a71.chunk.js",
-    "index.html": "/portfolio-thalia/index.html",
-    "main.e6c13ad2.css.map": "/portfolio-thalia/static/css/main.e6c13ad2.css.map",
-    "main.d098ca40.js.map": "/portfolio-thalia/static/js/main.d098ca40.js.map",
-    "453.ec1a5a71.chunk.js.map": "/portfolio-thalia/static/js/453.ec1a5a71.chunk.js.map"
+    "main.css": "/thaliatrandesign.com/static/css/main.e6c13ad2.css",
+    "main.js": "/thaliatrandesign.com/static/js/main.972c21e3.js",
+    "static/js/453.ec1a5a71.chunk.js": "/thaliatrandesign.com/static/js/453.ec1a5a71.chunk.js",
+    "index.html": "/thaliatrandesign.com/index.html",
+    "main.e6c13ad2.css.map": "/thaliatrandesign.com/static/css/main.e6c13ad2.css.map",
+    "main.972c21e3.js.map": "/thaliatrandesign.com/static/js/main.972c21e3.js.map",
+    "453.ec1a5a71.chunk.js.map": "/thaliatrandesign.com/static/js/453.ec1a5a71.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.d098ca40.js"
+    "static/js/main.972c21e3.js"
   ]
 }
