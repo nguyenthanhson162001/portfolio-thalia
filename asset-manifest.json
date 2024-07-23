@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/portfolio-thalia/static/css/main.e6c13ad2.css",
-    "main.js": "/portfolio-thalia/static/js/main.2de582bf.js",
+    "main.js": "/portfolio-thalia/static/js/main.d098ca40.js",
     "static/js/453.ec1a5a71.chunk.js": "/portfolio-thalia/static/js/453.ec1a5a71.chunk.js",
     "index.html": "/portfolio-thalia/index.html",
     "main.e6c13ad2.css.map": "/portfolio-thalia/static/css/main.e6c13ad2.css.map",
-    "main.2de582bf.js.map": "/portfolio-thalia/static/js/main.2de582bf.js.map",
+    "main.d098ca40.js.map": "/portfolio-thalia/static/js/main.d098ca40.js.map",
     "453.ec1a5a71.chunk.js.map": "/portfolio-thalia/static/js/453.ec1a5a71.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.2de582bf.js"
+    "static/js/main.d098ca40.js"
   ]
 }
