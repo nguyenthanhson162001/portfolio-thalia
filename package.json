@@ -26,11 +26,12 @@
     "web-vitals": "^2.1.0"
   },
   "scripts": {
-    "start": "DISABLE_ESLINT_PLUGIN=true react-scripts start",
-    "build": "DISABLE_ESLINT_PLUGIN=true react-scripts build",
+    "start": " react-scripts start",
+    "build": " react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "deploy": "npm run build && firebase deploy"
+    "deploy": "npm run build && firebase deploy",
+    "deploy-hostinger": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
